@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/classmate-0.5.4.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/commons-fileupload-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-aop-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-aspects-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-beans-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-context-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-context-indexer-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-context-support-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-core-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-expression-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-instrument-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-jcl-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-jdbc-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-jms-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-messaging-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-orm-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-oxm-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-test-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-tx-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-web-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-webflux-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-webmvc-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/spring-websocket-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/Supporting JARs/validation-api-2.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/mongo_JARs/jar_files/mongo-java-driver-3.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/mongo_JARs/jar_files/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/mongo_JARs/jar_files/spring-data-commons-2.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Work/MyCompany/Sessions/Spring/mongo_JARs/jar_files/spring-data-mongodb-2.0.2.RELEASE.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
